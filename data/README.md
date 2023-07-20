@@ -1,1 +1,1 @@
-Each dataset is used according to which skills can be shown with each data type they contain. For example, numbers.csv is used as an introduction to Datasets: val numbersDS: Dataset[Int] = numbersDF.as[Int]
+Each dataset is used according to which skills can be shown with each data type they contain. For example, numbers.csv is used as an introduction to DataSets: val numbersDS: Dataset[Int] = numbersDF.as[Int]
