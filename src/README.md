@@ -1,5 +1,3 @@
-All code associated with this repository. Some files are omitted for security purposes
-
 ## Pipelines
 This subfolder contains two pipelines: BasicPipeline and TDSPipeline (first run WriteToPostgreSql). 
 
